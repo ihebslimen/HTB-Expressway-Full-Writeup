@@ -1,4 +1,6 @@
 # HTB Expressway — Full Writeup
+<img width="1305" height="841" alt="Capture d&#39;écran 2026-02-17 223303" src="https://github.com/user-attachments/assets/9639a228-3df7-4c7b-9594-320606bc30de" />
+
 
 ## Overview
 
