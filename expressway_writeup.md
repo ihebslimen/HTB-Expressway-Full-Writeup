@@ -1,7 +1,6 @@
 # HTB Expressway — Full Writeup
-<img width="1305" height="841" alt="Capture d&#39;écran 2026-02-17 223303" src="https://github.com/user-attachments/assets/9639a228-3df7-4c7b-9594-320606bc30de" />
 
-
+<img width="1235" height="810" alt="Capture d&#39;écran 2026-02-18 041422" src="https://github.com/user-attachments/assets/8da133a0-87b6-4831-9007-b9f70b92b93a" />
 ## Overview
 
 - **Machine Name:** Expressway  
